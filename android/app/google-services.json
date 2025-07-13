@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "622751275346",
+    "project_id": "target-c1339",
+    "storage_bucket": "target-c1339.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622751275346:android:774112689a82701953428b",
+        "android_client_info": {
+          "package_name": "com.example.agri_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZt4wsI7TNeB-yr7QgzMxKGxPBBhwZq8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622751275346:android:aa035dd786f938a453428b",
+        "android_client_info": {
+          "package_name": "com.example.target_agrihawk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZt4wsI7TNeB-yr7QgzMxKGxPBBhwZq8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
